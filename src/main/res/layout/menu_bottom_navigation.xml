@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_chats"
+        android:icon="@drawable/ic_chat"
+        android:title="Chats" />
+    <item
+        android:id="@+id/menu_calls"
+        android:icon="@drawable/ic_call"
+        android:title="Llamadas" />
+    <item
+        android:id="@+id/menu_bills"
+        android:icon="@drawable/ic_invoice"
+        android:title="Facturas" />
+</menu>
